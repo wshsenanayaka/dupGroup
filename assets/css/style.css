@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #5faee3;
+  color: #e93e4e;
   text-decoration: none;
 }
 
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #57aae1;
+  background: #e93e4e;
   color: #fff;
 }
 
@@ -172,7 +172,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #4aa3df;
+  background: #e93e4e;
 }
 
 .navbar .dropdown ul {
@@ -1502,7 +1502,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #2383c4;
+  background: #e93e4e;
 }
 
 @keyframes animate-loading {

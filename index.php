@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>DUP Group Pvt Ltd</title>
+  <title>DUP Group (PVT) Ltd</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -91,7 +91,7 @@
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <img src="assets/img/DUP-PNG1.png" style='width: 40%;'alt="DUP Group Logo">
-          <h1 data-aos="fade-up">DUP Group Pvt Ltd</h1>
+          <h1 data-aos="fade-up">DUP Group (PVT) Ltd</h1>
           <h2 data-aos="fade-up" data-aos-delay="400">Elevating Lifestyles, Redefining Excellence</h2>
           <div data-aos="fade-up" data-aos-delay="800">
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
@@ -892,7 +892,7 @@
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="contact-about">
-              <h3>DUP Group Pvt Ltd</h3>
+              <h3>DUP Group (PVT) Ltd</h3>
               <p>An innovative business group comprising a luxurious hotel, cutting-edge landscape design, premier retail offerings, and top-notch car sales. We deliver a holistic experience, blending comfort, aesthetics, and quality across diverse sectors to enrich the lives of our valued customers.</p>
               <div class="social-links">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -959,7 +959,7 @@
       <div class="row d-flex align-items-center">
         <div class="col-lg-6 text-lg-left text-center">
           <div class="copyright">
-            &copy;Copyright <strong>Dup Group Pvt Ltd</strong>.All Rights Reserved
+            &copy;Copyright <strong>Dup Group (PVT) Ltd</strong>.All Rights Reserved
           </div>
           <div class="credits">
             <!-- All the links in the footer should remain intact. -->
