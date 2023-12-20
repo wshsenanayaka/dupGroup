@@ -206,7 +206,7 @@
                   <div class="count-box">
                     <i class="bi bi-clock"></i>
                     <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Years of experience</strong> aut commodi quaerat modi aliquam nam ducimus aut voluptate non vel</p>
+                    <p><strong>Years of experience</strong> A higher number of years of experience often implies a deeper understanding, proficiency, and expertise in that domain.</p>
                   </div>
                 </div>
 
@@ -214,7 +214,7 @@
                   <div class="count-box">
                     <i class="bi bi-award"></i>
                     <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Awards</strong> rerum asperiores dolor alias quo reprehenderit eum et nemo pad der</p>
+                    <p><strong>Awards</strong> "Awards" represent accolades or honors conferred upon individuals, businesses, or products in recognition of outstanding accomplishments or contributions.</p>
                   </div>
                 </div>
               </div>
