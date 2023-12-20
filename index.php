@@ -214,7 +214,7 @@
                   <div class="count-box">
                     <i class="bi bi-award"></i>
                     <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Awards</strong> represent accolades or honors conferred upon individuals, businesses, or products in recognition of outstanding accomplishments or contributions.</p>
+                    <p><strong>Awards</strong> represent accolades or honors conferred upon individuals, businesses, or products in recognition of outstanding contributions.</p>
                   </div>
                 </div>
               </div>
