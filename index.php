@@ -198,7 +198,7 @@
                   <div class="count-box">
                     <i class="bi bi-journal-richtext"></i>
                     <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Projects</strong> adipisci atque cum quia aspernatur totam laudantium et quia dere tan</p>
+                    <p><strong>Projects</strong>Success in projects often hinges on effective planning, execution, and completion, contributing to overall achievements and organizational goals.</p>
                   </div>
                 </div>
 
