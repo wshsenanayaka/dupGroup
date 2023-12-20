@@ -190,7 +190,7 @@
                   <div class="count-box">
                     <i class="bi bi-emoji-smile"></i>
                     <span data-purecounter-start="0" data-purecounter-end="65" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Happy Clients</strong> consequuntur voluptas nostrum aliquid ipsam architecto ut.</p>
+                    <p><strong>Happy Clients</strong> successful service delivery, meeting or exceeding client expectations, and often leads to customer loyalty and positive word-of-mouth.</p>
                   </div>
                 </div>
 
