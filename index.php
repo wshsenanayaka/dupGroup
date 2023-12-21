@@ -299,7 +299,7 @@
           <div class="col-md-6 d-flex align-items-stretch mt-4">
             <div class="card" style='background-image: url("assets/img/more-services-3.jpg");' data-aos="fade-up" data-aos-delay="100">
               <div class="card-body">
-                <h5 class="card-title"><a href="">Landscape Architect & Design</a></h5>
+                <h5 class="card-title"><a href="">Garden Design & Landscape Architect</a></h5>
                 <p class="card-text">professional service specializing in creating aesthetically pleasing and functional outdoor spaces.residential gardens to public spaces, ensuring harmonious designs that balance ecological considerations with client preferences</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
