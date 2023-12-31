@@ -198,7 +198,7 @@
                   <div class="count-box">
                     <i class="bi bi-journal-richtext"></i>
                     <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Projects</strong>Success in projects often hinges on effective planning, execution, and completion, contributing to overall achievements and organizational goals.</p>
+                    <p><strong>Projects</strong> Success in projects often hinges on effective planning, execution, and completion, contributing to overall achievements and organizational goals.</p>
                   </div>
                 </div>
 
@@ -966,7 +966,7 @@
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/vesperr-free-bootstrap-template/ -->
-            Designed by <a href="#">Mithun sameera</a>
+            </a>
           </div>
         </div>
         <div class="col-lg-6">
