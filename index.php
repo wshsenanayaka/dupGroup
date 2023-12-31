@@ -694,8 +694,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
+                <h4>Mithun Sameera</h4>
+                <span>Project Manager</span>
               </div>
             </div>
           </div>
@@ -712,8 +712,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>Dileepa Madushanka</h4>
+                <span>Accountant</span>
               </div>
             </div>
           </div>
@@ -730,8 +730,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
+                <h4>Harshani Wijerathne</h4>
+                <span>Accountant Assistant<span>
               </div>
             </div>
           </div>
